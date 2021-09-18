@@ -3,7 +3,7 @@ This is a strong password generator written in Python3
 
 # requirements:
 
-python3
+python3 /
 it may not work with python2
 
 
