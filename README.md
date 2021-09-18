@@ -1,5 +1,12 @@
 # password-generator
-This is a strong password generator. Its written in Python3
+This is a strong password generator written in Python3
 
-Direction of use:
-python3 password-generator.py
+requirements:
+
+python3
+With python2 it may not work
+
+
+# Direction of use:
+python3 Password-generator.py
+# Use capital P in password otherwise it will give you error.
