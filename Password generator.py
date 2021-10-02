@@ -12,4 +12,5 @@ if spl_chars == "yes":
     chars += "1234567890!@#$&*<>?"
 while pass_len > len(password):
     password += random.choice(chars)
+print("here is your password:")
 print(password)
